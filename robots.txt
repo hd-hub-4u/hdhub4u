@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hd-hub-4u.github.io/hdhub4u/sitemap.xml
